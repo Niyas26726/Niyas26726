@@ -1,23 +1,28 @@
-### Hi there 👋
+Hi there 👋
+I'm Niyas26726, and welcome to my GitHub profile! This ✨ special ✨ repository showcases my journey, projects, and contributions.
+
+🌱 I’m currently learning:
+MEAN stack
+😄 My projects:
+AlphaMen
+My Portfolio
+YouTube Clone
+Netflix Clone
+Messenger Clone
+📫 How to reach me:
+Email: pnmohamedniyas26726@gmail.com
+⚡ GitHub Stats:
+
+🔗 Connect with me:
 
 
-**Niyas26726/Niyas26726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 My Learning Journey:
+I'm on a continuous learning path and currently diving deep into the MEAN stack. I love to build full-stack applications and explore new technologies. Check out my projects to see what I've been working on!
 
-Here are some ideas to get you started:
-
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... MEAN stack
-- 😄 My projects ... 
-                      1) https://alphamen.mohamedniyas.in/ 
-                      2) https://my-portfolio-six-orcin.vercel.app/
-                      3) https://niyas26726.github.io/youTube-Clone/
-                      4) https://niyas26726.github.io/Netflix-clone/
-                      5) https://niyas26726.github.io/Messenger-Clone/
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: ... E-mail --> pnmohamedniyas26726@gmail.com
-<!--- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+💬 Ask me about:
+Full-stack development
+JavaScript frameworks
+Web application deployment
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Niyas26726)](https://github.com/Niyas26726)
